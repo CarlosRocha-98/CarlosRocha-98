@@ -30,4 +30,4 @@ Tenho 26 anos, sou de Campinas, sou deficiente auditivo, falo Libras e escrevo p
 
 ![snake gif](https://github.com/CarlosRocha-98/CarlosRocha-98/blob/output/github-contribution-grid-snake.svg)
 
-
+![Snake animation](https://github.com/CarlosRocha-98/CarlosRocha-98/blob/output/github-contribution-grid-snake.svg)
