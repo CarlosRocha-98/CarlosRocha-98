@@ -28,6 +28,6 @@ Tenho 26 anos, sou de Campinas, sou deficiente auditivo, falo Libras e escrevo p
   <img src="https://github.com/user-attachments/assets/5622ac38-23be-4ead-aada-3daffb2eca0d" alt="Avatar do Carlos" width="300px" />
 </div>
 
-![Uploading Cobrinha.svg…]()
+![snake gif](https://github.com/CarlosRocha-98/CarlosRocha-98/blob/output/github-contribution-grid-snake.svg)
 
 
