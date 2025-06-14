@@ -1,7 +1,7 @@
 # Carlos Rocha
 ### Hello, Devs!!
 
-Tenho 26 anos, sou de Campinas, sou deficiente auditivo, falo Libras e escrevo para me comunicar. Sou apaixonado por programação. Sou uma entusiasta da área de TI e tecnologia, e amo tudo isso! :star:
+Tenho 27 anos, sou de Campinas, sou deficiente auditivo, falo Libras e escrevo para me comunicar. Sou apaixonado por programação. Sou uma entusiasta da área de TI e tecnologia, e amo tudo isso! :star:
 
 <div align="center">
  <img src="https://github.com/user-attachments/assets/bfbb8354-7e88-45bd-8989-b248ec882090" alt="cat-busy" width="300px"/>
