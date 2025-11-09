@@ -14,7 +14,7 @@ Tenho 27 anos, sou de Campinas, sou deficiente auditivo, falo Libras e escrevo p
 
 :computer: Sou formado em Curso Técnico em Desenvolvimento de Sistemas e Informática para Internet e estou fazendo graduação em Bacharelado em Tecnologia da Informação.
 
-:books: Estudando com escola programação da Alura.
+:books: Estudando no curso de Fullstack no DevClub.
 
 <div>
 <a href = "ckrocha04@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
